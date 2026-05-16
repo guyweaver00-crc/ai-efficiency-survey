@@ -626,7 +626,7 @@ export default function App() {
                 Want to close these gaps?
               </div>
               <p style={{ fontSize: 13, color: "#64748b", lineHeight: 1.7, marginBottom: 16 }}>
-                I deliver half-day AI training sessions to corporate teams — practical, hands-on, and built around your actual tools and workflows. Your diagnostic results above are the starting point for a programme tailored to your specific gaps.
+                I deliver AI training to corporate teams in formats that work for you — from focused bespoke sessions through to half-day team programmes. Every session is practical, hands-on, and built around your actual tools and workflows. Get in touch to discuss what would work best for your team.
               </p>
               <a
                 href="mailto:guy@guyweaver.com?subject=AI Training Enquiry"
